@@ -1,0 +1,29 @@
+{
+  "version": "2.6.2",
+  "release_version": "1.0",
+  "released_at": "2026-07-30",
+  "summary": {
+    "title": "Online Student Portal Threat Model",
+    "owner": "Sanjula Kalpani",
+    "description": "This threat model describes an online student portal that allows students to log in and view examination results, lecturers to upload and modify marks, and administrators to manage user accounts. Student information and examination results are stored in a central database. The system is accessible through the Internet and uses an authentication service to verify users.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Online Student Portal DFD",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Data flow diagram showing the online student portal system, including users, web application, authentication service, database, data flows, and trust boundaries."
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
